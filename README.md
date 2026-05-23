@@ -1,6 +1,10 @@
 # ❤️ Heart Disease Prediction System
 
-
+<p align="center">
+  <a href="https://heart-disease-prediction-6kx6.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/❤️%20Live%20Demo-Heart%20Disease%20Prediction-red?style=for-the-badge">
+  </a>
+</p>
 
 A Machine Learning based **Heart Disease Prediction System** built using **Python, Flask, HTML, CSS, and Machine Learning algorithms**.  
 The application predicts the likelihood of heart disease based on medical input parameters provided by the user.
@@ -15,7 +19,6 @@ The application predicts the likelihood of heart disease based on medical input 
 - ⚡ Instant prediction results
 - 🌐 Flask-based web application
 - 📱 Responsive UI design
-
 
 ---
 
@@ -39,11 +42,11 @@ The application predicts the likelihood of heart disease based on medical input 
 
 ## 🧠 Machine Learning Workflow
 
-1. Data Collection
-2. Data Preprocessing
-3. Model Training
-4. Model Evaluation
-5. Prediction Deployment using Flask
+1. Data Collection  
+2. Data Preprocessing  
+3. Model Training  
+4. Model Evaluation  
+5. Prediction Deployment using Flask  
 
 ---
 
@@ -99,7 +102,7 @@ python app.py
 http://127.0.0.1:5000
 ```
 
-
+---
 
 
 ## 🤝 Contributing
