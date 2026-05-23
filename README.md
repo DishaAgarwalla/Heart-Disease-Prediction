@@ -1,31 +1,125 @@
-# Heart Disease Prediction
+# ❤️ Heart Disease Prediction System
 
-This is a **Machine Learning project** that predicts whether a person has heart disease using classification algorithms in Python.
 
----
 
-## 📌 Dataset
-
-The dataset used:
-- UCI Heart Disease Dataset  
-- Contains medical attributes like age, blood pressure, cholesterol, etc.
-- Target label:
-  - 0 → No Heart Disease
-  - 1 → Heart Disease
+A Machine Learning based **Heart Disease Prediction System** built using **Python, Flask, HTML, CSS, and Machine Learning algorithms**.  
+The application predicts the likelihood of heart disease based on medical input parameters provided by the user.
 
 ---
 
-## 🧠 Algorithms Used
+## 🚀 Features
 
-| Model | Test Accuracy |
-|-------|--------------|
-| Logistic Regression | 79.5% |
-| Random Forest | 98.5% |
+- ❤️ Predicts heart disease risk
+- 🤖 Machine Learning powered prediction
+- 📊 User-friendly input form
+- ⚡ Instant prediction results
+- 🌐 Flask-based web application
+- 📱 Responsive UI design
+
 
 ---
 
-## 💻 How to Run This Project
+## 🛠️ Technologies Used
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/DishaAgarwalla/Heart-Disease-Prediction.git
+### Frontend
+- HTML5
+- CSS3
+- Bootstrap
+
+### Backend
+- Python
+- Flask
+
+### Machine Learning
+- Scikit-learn
+- Pandas
+- NumPy
+
+---
+
+## 🧠 Machine Learning Workflow
+
+1. Data Collection
+2. Data Preprocessing
+3. Model Training
+4. Model Evaluation
+5. Prediction Deployment using Flask
+
+---
+
+## ▶️ How to Run Locally
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/Heart-Disease-Prediction.git
+```
+
+2. Navigate to the project directory
+
+```bash
+cd Heart-Disease-Prediction
+```
+
+3. Create virtual environment
+
+```bash
+python -m venv venv
+```
+
+4. Activate virtual environment
+
+### Windows
+
+```bash
+venv\Scripts\activate
+```
+
+### Mac/Linux
+
+```bash
+source venv/bin/activate
+```
+
+5. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+6. Run the Flask application
+
+```bash
+python app.py
+```
+
+7. Open in browser
+
+```bash
+http://127.0.0.1:5000
+```
+
+
+
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository  
+2. Create a new branch  
+3. Commit your changes  
+4. Push to GitHub  
+5. Create a Pull Request  
+
+---
+
+## ⭐ Acknowledgment
+
+This project was built for learning Machine Learning deployment and full-stack web development.
+
+---
+
+## 👩‍💻 Author
+
+**Disha Agarwalla**
